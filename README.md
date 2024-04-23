@@ -34,5 +34,5 @@
 - [x] We are NOT responsible of anything you do with our software (if its illegal).
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Ruwin](https://github.com/salahW3b)
+- [fkdt](https://github.com/salahW3b)
 ---
